@@ -168,7 +168,7 @@ footer a {
   }
 
   nav::before {
-    content: 'SEM VERSÃO MOBILE';
+    content: 'VERSÃO MOBILE EM DESENVOLVIMENTO';
     display: flex;
     flex-direction: column;
     justify-content: center;

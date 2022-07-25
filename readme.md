@@ -7,9 +7,9 @@ LAYOUT
 <img src="./images/layout.png" alt="Layout da página web">
 
 ## Semântica - Hypertext Markup Language
-tags html com significa para o browser e para a acessibilidade
+tags html com significado para o browser e para a acessibilidade
 
-## Conceito de box model Cascading Style Sheets:
+## Box Model - Cascading Style Sheets
 * largura
 * altura
 * conteúdo
