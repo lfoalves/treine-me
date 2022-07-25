@@ -1,6 +1,6 @@
 # Projeto 02
 
-Acesse em: <a href="https://lfoalves.github.io/projeto02-treineme" title="Acessar o site da Treine Me">Treine.me</a>
+Acesse em: <a href="https://lfoalves.github.io/treine-me" title="Acessar o site da Treine Me">Treine.me</a>
 
 LAYOUT
 
